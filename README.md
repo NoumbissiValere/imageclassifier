@@ -1,5 +1,5 @@
 # imageclassifier
-An AI program to classifier images to their respective categories using pre-trained models and Pytorch
+An AI program to classifier images to their respective categories (102 outputs) using pre-trained models and Pytorch.
 
 This project is divided into two sections, 
 - A train section
